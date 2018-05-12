@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32090#The-Curlytops-Snowed-In--Or-Grand-Fun-with-Skates-and-Sleds
 gutenberg_issued: '2010-04-22'
 gutenberg_type: Text
 identifiers:
